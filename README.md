@@ -111,5 +111,5 @@ This project is intended for academic and research purposes. Forecasts are proba
 
 ## Author
 *Anantha Shayan*  
-B.Tech – Computer Science & Engineering (AI & ML)
+Minor in AI
 
