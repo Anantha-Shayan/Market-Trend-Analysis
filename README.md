@@ -179,7 +179,8 @@ python time_series_forecasting.py predict    # sample quantile forecast and advi
 | File | Contents |
 |---|---|
 | `time_series_forecasting.py` | End-to-end pipeline: data preparation, datasets, model, trainer and the four CLI stages |
-| `Time_Series.ipynb` | Colab notebook version of the pipeline |
+| `Time_Series_Forecasting.ipynb` | Original Colab notebook **with saved outputs**: the EDA, data-quality checks, sparsity analysis and DeepAR training run behind every number in this README |
+| `Time_Series.ipynb` | Clean notebook version of the refactored pipeline (no outputs) |
 
 ---
 
